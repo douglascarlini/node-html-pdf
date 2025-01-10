@@ -1,0 +1,5 @@
+services:
+  daniel:
+    build: .
+    ports:
+      - "26789:80"
